@@ -5,3 +5,4 @@ Flask-CORS==4.0.0
 Werkzeug==2.3.6
 itsdangerous==2.1.2
 python-dotenv==1.0.0
+flask-limiter==2.7.0
